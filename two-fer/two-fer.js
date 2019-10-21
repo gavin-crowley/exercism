@@ -1,7 +1,7 @@
 //
 // This is only a SKELETON file for the 'Two fer' exercise. It's been provided as a
 // convenience to get you started writing code faster.
-//comment new again
+//comment new again again
 
 export const twoFer = (name) => {
   // throw new Error("Remove this statement and implement this function");
